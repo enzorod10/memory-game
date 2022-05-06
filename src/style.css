@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    --yellow: #F1CD54;
+    --beige: #EEE4B9;
+    --purple: #8556D0;
+    --red: #DC464B;
+}
+
+#root{
+    height: 100%;
+    width: 100%;
+}
+
+#root > div{
+    height: 100%;
+    width: 100%;
+    background-color: #8556d01a;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 20px var(--red) solid;
+    align-items: center;
+}
+
+.header > div:nth-child(1){
+    font-size: 40px;
+}
+
+.scoreContainer{
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+}
+
+.gridContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    place-items: center;
+    height: 85%;
+}
+
+.gridElements{
+    border: 5px var(--purple) solid;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--beige);
+    transition: background-color 0.3s ease;
+}
+
+.gridElements:hover{
+    background-color: #eee4b933;
+}
+
+.gridElements > img{
+    transition: height 0.3s ease;
+    height: 200px;
+}
+
+.gridElements:hover .pokemon{
+    height: 220px;
+}
