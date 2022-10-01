@@ -10,10 +10,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-
-<h3 align="center">Pokemon Memory Game (Created April 2022)</h3>
   
 ![pokemonlogo](https://user-images.githubusercontent.com/93365813/193397076-34e799dc-d99a-4dc6-9ee5-835dcd6c9722.png)
+
+<h3 align="center">Pokemon Memory Game (Created April 2022)</h3>
 
   <p align="center">
     Make sure you don't click on the same pokemon twice!
