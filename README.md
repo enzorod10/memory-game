@@ -10,11 +10,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/enzorod10/memory-game>
-    ![pokemonlogo](https://user-images.githubusercontent.com/93365813/193396870-ecfc1adb-de07-4225-918f-a8b5fb12b406.png)
-  </a>
 
 <h3 align="center">Pokemon Memory Game (Created April 2022)</h3>
+  
+![pokemonlogo](https://user-images.githubusercontent.com/93365813/193397076-34e799dc-d99a-4dc6-9ee5-835dcd6c9722.png)
 
   <p align="center">
     Make sure you don't click on the same pokemon twice!
@@ -29,6 +28,8 @@
     <a href="https://github.com/enzorod10/memory-game/issues">Request Feature</a>
   </p>
 </div>
+
+![memoryGameScreenshot](https://user-images.githubusercontent.com/93365813/193397064-0a2fbbe3-2207-408c-a122-2cc1ad93119f.png)
 
 <!-- TABLE OF CONTENTS -->
 <details>
