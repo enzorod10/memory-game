@@ -124,8 +124,8 @@ Project Link: [https://github.com/enzorod10/memory-game](https://github.com/enzo
 
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
 * [Icons8](https://icons8.com/)
+* [Pokemon](https://www.pokemon.com/us/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
