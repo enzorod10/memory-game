@@ -141,4 +141,3 @@ Project Link: [https://github.com/enzorod10/memory-game](https://github.com/enzo
 [license-url]: https://github.com/enzorod10/memory-game/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/enzo-rod
-[product-screenshot]: images/screenshot.png
