@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/enzorod10/memory-game>
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    ![pokemonlogo](https://user-images.githubusercontent.com/93365813/193396870-ecfc1adb-de07-4225-918f-a8b5fb12b406.png)
   </a>
 
 <h3 align="center">Pokemon Memory Game (Created April 2022)</h3>
