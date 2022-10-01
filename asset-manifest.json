@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.85d6a70e.css",
+    "main.js": "/memory-game/static/js/main.df9b1442.js",
+    "static/media/zapdos.png": "/memory-game/static/media/zapdos.b1429f9d06cb3bf5985c.png",
+    "static/media/totodile.png": "/memory-game/static/media/totodile.49c384a4d7744a2f03a1.png",
+    "static/media/pikachu.png": "/memory-game/static/media/pikachu.f39735072036b440139e.png",
+    "static/media/meowth.png": "/memory-game/static/media/meowth.b9115e0892751698fdb9.png",
+    "static/media/mudkip.png": "/memory-game/static/media/mudkip.658683ff98d4086e3e9b.png",
+    "static/media/butterfree.png": "/memory-game/static/media/butterfree.081b1371f44d4013eedc.png",
+    "static/media/sandshrew.png": "/memory-game/static/media/sandshrew.f429bee1e7e50c4b123f.png",
+    "static/media/dragonite.png": "/memory-game/static/media/dragonite.c50d31ff9faf4a911edc.png",
+    "static/media/dragonair.png": "/memory-game/static/media/dragonair.4699917aea4229a43e33.png",
+    "static/media/squirtle.png": "/memory-game/static/media/squirtle.cc57019380e34f9db018.png",
+    "index.html": "/memory-game/index.html",
+    "main.85d6a70e.css.map": "/memory-game/static/css/main.85d6a70e.css.map",
+    "main.df9b1442.js.map": "/memory-game/static/js/main.df9b1442.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85d6a70e.css",
+    "static/js/main.df9b1442.js"
+  ]
+}
